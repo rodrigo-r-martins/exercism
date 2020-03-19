@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="582cf09a-71fa-469a-9c02-00950d0a5cb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1ZKCnYyq6Hkp1Q5RdAzCFl8sppI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hamming" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PangramCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pangram.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PangramCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PangramCheckerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="582cf09a-71fa-469a-9c02-00950d0a5cb0" name="Default Changelist" comment="" />
+      <created>1584156935252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584156935252</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PangramCheckerTest - 2020.03.13 at 23h 52m 05s.xml">
+      <configuration name="PangramCheckerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PangramCheckerTest - 2020.03.13 at 23h 53m 22s.xml">
+      <configuration name="PangramCheckerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PangramCheckerTest - 2020.03.14 at 00h 10m 14s.xml">
+      <configuration name="PangramCheckerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PangramCheckerTest - 2020.03.14 at 00h 13m 02s.xml">
+      <configuration name="PangramCheckerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PangramCheckerTest - 2020.03.14 at 00h 13m 54s.xml">
+      <configuration name="PangramCheckerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PangramCheckerTest - 2020.03.14 at 00h 22m 14s.xml">
+      <configuration name="PangramCheckerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584578652196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584578652196" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

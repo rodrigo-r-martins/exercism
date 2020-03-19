@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b3ffddf-c1c3-4f43-b202-4d267f0e88f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1ZKDeTkRZ2ZERUMe9mBjmV0iKZm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RnaTranscriptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rna-transcription.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RnaTranscriptionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RnaTranscriptionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b3ffddf-c1c3-4f43-b202-4d267f0e88f5" name="Default Changelist" comment="" />
+      <created>1584132042773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584132042773</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RnaTranscriptionTest - 2020.03.13 at 21h 04m 50s.xml">
+      <configuration name="RnaTranscriptionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RnaTranscriptionTest - 2020.03.13 at 21h 05m 37s.xml">
+      <configuration name="RnaTranscriptionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RnaTranscriptionTest - 2020.03.13 at 21h 20m 05s.xml">
+      <configuration name="RnaTranscriptionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RnaTranscriptionTest - 2020.03.13 at 21h 20m 52s.xml">
+      <configuration name="RnaTranscriptionTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
