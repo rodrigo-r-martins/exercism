@@ -1,0 +1,20 @@
+{
+   "python.pythonPath": "C:\\Users\\rmart\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+   "python.testing.pytestArgs": [
+      "python"
+   ],
+   "python.testing.unittestEnabled": false,
+   "python.testing.nosetestsEnabled": false,
+   "python.testing.pytestEnabled": true,
+   "sqltools.connections": [
+      {
+         "database": "interview_qs",
+         "dialect": "MySQL",
+         "name": "interview_qs",
+         "password": "Ninil1985!",
+         "port": 3306,
+         "server": "localhost",
+         "username": "root"
+      }
+   ]
+}
