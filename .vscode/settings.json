@@ -16,5 +16,6 @@
          "server": "localhost",
          "username": "root"
       }
-   ]
+   ],
+   "java.configuration.updateBuildConfiguration": "automatic"
 }
